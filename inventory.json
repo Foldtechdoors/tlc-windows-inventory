@@ -1,10 +1,28 @@
 {
-  "products": [],
-  "lastUpdated": "2025-07-30T20:51:03.225Z",
-  "version": 1,
+  "products": [
+    {
+      "name": "bifold door",
+      "category": "doors",
+      "price": 3000,
+      "cost": 1000,
+      "quantity": 5,
+      "description": "",
+      "supplier": "",
+      "sku": "",
+      "status": "active",
+      "id": "9a39182e-3ab0-47da-a310-be8a24df33eb",
+      "created_at": "2025-07-30T20:33:22.861Z",
+      "updated_at": "2025-07-30T20:33:22.861Z"
+    }
+  ],
+  "lastUpdated": "2025-07-30T20:51:03.782Z",
+  "version": 1753908663782,
   "metadata": {
-    "created": "2025-07-30T20:51:03.225Z",
-    "source": "TLC Windows Inventory System",
-    "description": "Inventory data for TLC Windows - windows, doors, and accessories"
+    "totalProducts": 1,
+    "categories": [
+      "doors"
+    ],
+    "lastSync": "2025-07-30T20:51:03.782Z",
+    "syncedBy": "TLC Windows Inventory System"
   }
 }
