@@ -13,16 +13,30 @@
       "id": "c912e1e7-ae7f-4f9f-a5d7-0fe45a64f9ac",
       "created_at": "2025-07-30T21:52:00.094Z",
       "updated_at": "2025-07-30T21:56:27.319Z"
+    },
+    {
+      "name": "59-1/2 x 79-1/2 OX",
+      "category": "doors-new-construction",
+      "price": 0,
+      "cost": 0,
+      "quantity": 4,
+      "description": "",
+      "supplier": "",
+      "sku": "",
+      "status": "active",
+      "id": "e0a2d7ab-4552-49ea-bf21-cea725dac4c0",
+      "created_at": "2025-07-30T21:57:38.774Z",
+      "updated_at": "2025-07-30T21:57:38.774Z"
     }
   ],
-  "lastUpdated": "2025-07-30T21:56:27.323Z",
-  "version": 1753912587323,
+  "lastUpdated": "2025-07-30T21:57:38.780Z",
+  "version": 1753912658780,
   "metadata": {
-    "totalProducts": 1,
+    "totalProducts": 2,
     "categories": [
       "doors-new-construction"
     ],
-    "lastSync": "2025-07-30T21:56:27.323Z",
+    "lastSync": "2025-07-30T21:57:38.780Z",
     "syncedBy": "TLC Windows Inventory System"
   }
 }
