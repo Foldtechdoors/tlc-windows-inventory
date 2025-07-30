@@ -27,16 +27,31 @@
       "id": "e0a2d7ab-4552-49ea-bf21-cea725dac4c0",
       "created_at": "2025-07-30T21:57:38.774Z",
       "updated_at": "2025-07-30T21:57:38.774Z"
+    },
+    {
+      "name": "71-1/2 x 79-1/2 OX",
+      "category": "",
+      "price": 0,
+      "cost": 0,
+      "quantity": 6,
+      "description": "",
+      "supplier": "",
+      "sku": "",
+      "status": "active",
+      "id": "9b93b119-26d8-41d2-afca-0f5e41177556",
+      "created_at": "2025-07-30T21:58:10.617Z",
+      "updated_at": "2025-07-30T21:58:10.617Z"
     }
   ],
-  "lastUpdated": "2025-07-30T21:57:38.780Z",
-  "version": 1753912658780,
+  "lastUpdated": "2025-07-30T21:58:10.625Z",
+  "version": 1753912690625,
   "metadata": {
-    "totalProducts": 2,
+    "totalProducts": 3,
     "categories": [
-      "doors-new-construction"
+      "doors-new-construction",
+      ""
     ],
-    "lastSync": "2025-07-30T21:57:38.780Z",
+    "lastSync": "2025-07-30T21:58:10.625Z",
     "syncedBy": "TLC Windows Inventory System"
   }
 }
