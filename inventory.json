@@ -105,23 +105,23 @@
       "cost": 0,
       "quantity": 1,
       "description": "",
-      "supplier": "RETROFIT LOWE2",
-      "sku": "",
+      "supplier": "",
+      "sku": "RETROFIT LOWE2",
       "status": "active",
       "id": "231b2aff-e2d5-4889-bfb0-f1802c18bad0",
       "created_at": "2025-07-30T23:09:18.308Z",
-      "updated_at": "2025-07-30T23:09:18.308Z"
+      "updated_at": "2025-07-30T23:10:10.046Z"
     }
   ],
-  "lastUpdated": "2025-07-30T23:09:18.315Z",
-  "version": 1753916958315,
+  "lastUpdated": "2025-07-30T23:10:10.051Z",
+  "version": 1753917010051,
   "metadata": {
     "totalProducts": 8,
     "categories": [
       "doors-new-construction",
       "french-doors"
     ],
-    "lastSync": "2025-07-30T23:09:18.315Z",
+    "lastSync": "2025-07-30T23:10:10.051Z",
     "syncedBy": "TLC Windows Inventory System"
   }
 }
