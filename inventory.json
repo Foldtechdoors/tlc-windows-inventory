@@ -13,16 +13,31 @@
       "id": "5155c3e3-d8f1-48bf-955a-eef27590fb6a",
       "created_at": "2025-07-30T21:11:08.455Z",
       "updated_at": "2025-07-30T21:11:08.455Z"
+    },
+    {
+      "name": "sliding door",
+      "category": "container-e",
+      "price": 4000,
+      "cost": 560,
+      "quantity": 10,
+      "description": "",
+      "supplier": "",
+      "sku": "",
+      "status": "active",
+      "id": "c52430a1-2cca-4efb-bfa2-8da1b11cb097",
+      "created_at": "2025-07-30T21:22:31.568Z",
+      "updated_at": "2025-07-30T21:22:31.568Z"
     }
   ],
-  "lastUpdated": "2025-07-30T21:21:31.298Z",
-  "version": 1753910491298,
+  "lastUpdated": "2025-07-30T21:22:31.578Z",
+  "version": 1753910551578,
   "metadata": {
-    "totalProducts": 1,
+    "totalProducts": 2,
     "categories": [
-      "casita"
+      "casita",
+      "container-e"
     ],
-    "lastSync": "2025-07-30T21:21:31.298Z",
+    "lastSync": "2025-07-30T21:22:31.578Z",
     "syncedBy": "TLC Windows Inventory System"
   }
 }
