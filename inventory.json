@@ -72,7 +72,7 @@
     },
     {
       "name": " 1/2 X 79-1/2 XO GRIDS",
-      "category": "",
+      "category": "doors-new-construction",
       "price": 0,
       "cost": 0,
       "quantity": 71,
@@ -82,18 +82,17 @@
       "status": "active",
       "id": "ee4dfb44-e533-4038-9482-03bee30f4515",
       "created_at": "2025-07-30T22:13:37.047Z",
-      "updated_at": "2025-07-30T22:13:37.047Z"
+      "updated_at": "2025-07-30T22:13:49.171Z"
     }
   ],
-  "lastUpdated": "2025-07-30T22:13:37.053Z",
-  "version": 1753913617053,
+  "lastUpdated": "2025-07-30T22:13:49.180Z",
+  "version": 1753913629180,
   "metadata": {
     "totalProducts": 6,
     "categories": [
-      "doors-new-construction",
-      ""
+      "doors-new-construction"
     ],
-    "lastSync": "2025-07-30T22:13:37.053Z",
+    "lastSync": "2025-07-30T22:13:49.180Z",
     "syncedBy": "TLC Windows Inventory System"
   }
 }
