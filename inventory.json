@@ -13,16 +13,31 @@
       "id": "9a39182e-3ab0-47da-a310-be8a24df33eb",
       "created_at": "2025-07-30T20:33:22.861Z",
       "updated_at": "2025-07-30T20:33:22.861Z"
+    },
+    {
+      "name": "window frame",
+      "category": "windows",
+      "price": 2000,
+      "cost": 300,
+      "quantity": 7,
+      "description": "",
+      "supplier": "amazon",
+      "sku": "",
+      "status": "active",
+      "id": "8eed84c0-1ee4-4d2c-9028-ea1fad5e81a2",
+      "created_at": "2025-07-30T20:51:59.997Z",
+      "updated_at": "2025-07-30T20:51:59.997Z"
     }
   ],
-  "lastUpdated": "2025-07-30T20:51:03.782Z",
-  "version": 1753908663782,
+  "lastUpdated": "2025-07-30T20:52:00.001Z",
+  "version": 1753908720001,
   "metadata": {
-    "totalProducts": 1,
+    "totalProducts": 2,
     "categories": [
-      "doors"
+      "doors",
+      "windows"
     ],
-    "lastSync": "2025-07-30T20:51:03.782Z",
+    "lastSync": "2025-07-30T20:52:00.001Z",
     "syncedBy": "TLC Windows Inventory System"
   }
 }
