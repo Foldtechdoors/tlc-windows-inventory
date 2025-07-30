@@ -13,16 +13,31 @@
       "id": "c52430a1-2cca-4efb-bfa2-8da1b11cb097",
       "created_at": "2025-07-30T21:22:31.568Z",
       "updated_at": "2025-07-30T21:45:24.973Z"
+    },
+    {
+      "name": "6- 59-1\\2 x 79-1/2 XO",
+      "category": "doors-new-construction",
+      "price": 0,
+      "cost": 0,
+      "quantity": 0,
+      "description": "",
+      "supplier": "",
+      "sku": "",
+      "status": "active",
+      "id": "c912e1e7-ae7f-4f9f-a5d7-0fe45a64f9ac",
+      "created_at": "2025-07-30T21:52:00.094Z",
+      "updated_at": "2025-07-30T21:52:00.094Z"
     }
   ],
-  "lastUpdated": "2025-07-30T21:51:06.991Z",
-  "version": 1753912266991,
+  "lastUpdated": "2025-07-30T21:52:00.100Z",
+  "version": 1753912320100,
   "metadata": {
-    "totalProducts": 1,
+    "totalProducts": 2,
     "categories": [
-      "container-e"
+      "container-e",
+      "doors-new-construction"
     ],
-    "lastSync": "2025-07-30T21:51:06.991Z",
+    "lastSync": "2025-07-30T21:52:00.100Z",
     "syncedBy": "TLC Windows Inventory System"
   }
 }
