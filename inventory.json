@@ -1,20 +1,6 @@
 {
   "products": [
     {
-      "name": "Black netting ",
-      "category": "windows",
-      "price": 2000,
-      "cost": 300,
-      "quantity": 12,
-      "description": "",
-      "supplier": "",
-      "sku": "",
-      "status": "active",
-      "id": "c40626d3-143b-485e-afb8-1efe027f4271",
-      "created_at": "2025-07-30T20:59:13.736Z",
-      "updated_at": "2025-07-30T20:59:13.736Z"
-    },
-    {
       "name": "bifold doors",
       "category": "casita",
       "price": 0,
@@ -29,15 +15,14 @@
       "updated_at": "2025-07-30T21:11:08.455Z"
     }
   ],
-  "lastUpdated": "2025-07-30T21:11:08.462Z",
-  "version": 1753909868462,
+  "lastUpdated": "2025-07-30T21:21:31.298Z",
+  "version": 1753910491298,
   "metadata": {
-    "totalProducts": 2,
+    "totalProducts": 1,
     "categories": [
-      "windows",
       "casita"
     ],
-    "lastSync": "2025-07-30T21:11:08.462Z",
+    "lastSync": "2025-07-30T21:21:31.298Z",
     "syncedBy": "TLC Windows Inventory System"
   }
 }
