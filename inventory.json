@@ -139,17 +139,31 @@
       "id": "03a05f85-d720-4deb-abb7-1f4600197933",
       "created_at": "2025-07-30T23:13:15.995Z",
       "updated_at": "2025-07-30T23:13:15.995Z"
+    },
+    {
+      "name": "71-1/2 x 79-1/2 OUTSWING ",
+      "category": "french-doors",
+      "price": 0,
+      "cost": 0,
+      "quantity": 1,
+      "description": "",
+      "supplier": "",
+      "sku": "NEW CONST LOWE2",
+      "status": "active",
+      "id": "6e70fb1e-a5ae-4908-be4b-f793690bbd95",
+      "created_at": "2025-07-30T23:13:57.243Z",
+      "updated_at": "2025-07-30T23:13:57.243Z"
     }
   ],
-  "lastUpdated": "2025-07-30T23:13:16.003Z",
-  "version": 1753917196003,
+  "lastUpdated": "2025-07-30T23:13:57.255Z",
+  "version": 1753917237255,
   "metadata": {
-    "totalProducts": 10,
+    "totalProducts": 11,
     "categories": [
       "doors-new-construction",
       "french-doors"
     ],
-    "lastSync": "2025-07-30T23:13:16.003Z",
+    "lastSync": "2025-07-30T23:13:57.255Z",
     "syncedBy": "TLC Windows Inventory System"
   }
 }
