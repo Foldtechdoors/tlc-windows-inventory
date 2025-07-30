@@ -19,25 +19,25 @@
       "category": "container-e",
       "price": 4000,
       "cost": 560,
-      "quantity": 10,
+      "quantity": 4,
       "description": "",
       "supplier": "",
       "sku": "",
       "status": "active",
       "id": "c52430a1-2cca-4efb-bfa2-8da1b11cb097",
       "created_at": "2025-07-30T21:22:31.568Z",
-      "updated_at": "2025-07-30T21:22:31.568Z"
+      "updated_at": "2025-07-30T21:44:38.669Z"
     }
   ],
-  "lastUpdated": "2025-07-30T21:22:31.578Z",
-  "version": 1753910551578,
+  "lastUpdated": "2025-07-30T21:44:38.678Z",
+  "version": 1753911878678,
   "metadata": {
     "totalProducts": 2,
     "categories": [
       "casita",
       "container-e"
     ],
-    "lastSync": "2025-07-30T21:22:31.578Z",
+    "lastSync": "2025-07-30T21:44:38.679Z",
     "syncedBy": "TLC Windows Inventory System"
   }
 }
