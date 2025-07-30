@@ -1,20 +1,6 @@
 {
   "products": [
     {
-      "name": "sliding door",
-      "category": "container-e",
-      "price": 4000,
-      "cost": 560,
-      "quantity": 15,
-      "description": "",
-      "supplier": "",
-      "sku": "",
-      "status": "active",
-      "id": "c52430a1-2cca-4efb-bfa2-8da1b11cb097",
-      "created_at": "2025-07-30T21:22:31.568Z",
-      "updated_at": "2025-07-30T21:45:24.973Z"
-    },
-    {
       "name": "6- 59-1\\2 x 79-1/2 XO",
       "category": "doors-new-construction",
       "price": 0,
@@ -29,15 +15,14 @@
       "updated_at": "2025-07-30T21:52:00.094Z"
     }
   ],
-  "lastUpdated": "2025-07-30T21:52:00.100Z",
-  "version": 1753912320100,
+  "lastUpdated": "2025-07-30T21:52:08.885Z",
+  "version": 1753912328885,
   "metadata": {
-    "totalProducts": 2,
+    "totalProducts": 1,
     "categories": [
-      "container-e",
       "doors-new-construction"
     ],
-    "lastSync": "2025-07-30T21:52:00.100Z",
+    "lastSync": "2025-07-30T21:52:08.885Z",
     "syncedBy": "TLC Windows Inventory System"
   }
 }
