@@ -1,28 +1,28 @@
 {
   "products": [
     {
-      "name": "6- 59-1\\2 x 79-1/2 XO",
+      "name": "59-1\\2 x 79-1/2 XO",
       "category": "doors-new-construction",
       "price": 0,
       "cost": 0,
-      "quantity": 0,
+      "quantity": 6,
       "description": "",
       "supplier": "",
       "sku": "",
       "status": "active",
       "id": "c912e1e7-ae7f-4f9f-a5d7-0fe45a64f9ac",
       "created_at": "2025-07-30T21:52:00.094Z",
-      "updated_at": "2025-07-30T21:52:00.094Z"
+      "updated_at": "2025-07-30T21:56:27.319Z"
     }
   ],
-  "lastUpdated": "2025-07-30T21:52:08.885Z",
-  "version": 1753912328885,
+  "lastUpdated": "2025-07-30T21:56:27.323Z",
+  "version": 1753912587323,
   "metadata": {
     "totalProducts": 1,
     "categories": [
       "doors-new-construction"
     ],
-    "lastSync": "2025-07-30T21:52:08.885Z",
+    "lastSync": "2025-07-30T21:56:27.323Z",
     "syncedBy": "TLC Windows Inventory System"
   }
 }
