@@ -152,18 +152,18 @@
       "status": "active",
       "id": "6e70fb1e-a5ae-4908-be4b-f793690bbd95",
       "created_at": "2025-07-30T23:13:57.243Z",
-      "updated_at": "2025-07-30T23:13:57.243Z"
+      "updated_at": "2025-07-31T00:15:51.602Z"
     }
   ],
-  "lastUpdated": "2025-07-30T23:13:57.255Z",
-  "version": 1753917237255,
+  "lastUpdated": "2025-07-31T00:15:51.613Z",
+  "version": 1753920951613,
   "metadata": {
     "totalProducts": 11,
     "categories": [
       "doors-new-construction",
       "french-doors"
     ],
-    "lastSync": "2025-07-30T23:13:57.255Z",
+    "lastSync": "2025-07-31T00:15:51.613Z",
     "syncedBy": "TLC Windows Inventory System"
   }
 }
