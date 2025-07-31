@@ -153,17 +153,30 @@
       "id": "6e70fb1e-a5ae-4908-be4b-f793690bbd95",
       "created_at": "2025-07-30T23:13:57.243Z",
       "updated_at": "2025-07-31T00:15:51.602Z"
+    },
+    {
+      "name": "29 3\\4 x 35 1\\2 xo Grids",
+      "category": "casita",
+      "quantity": 1,
+      "description": "",
+      "supplier": "",
+      "sku": "",
+      "status": "active",
+      "id": "8f331590-51d1-44ad-ab59-18ad3672202d",
+      "created_at": "2025-07-31T00:18:26.033Z",
+      "updated_at": "2025-07-31T00:18:26.033Z"
     }
   ],
-  "lastUpdated": "2025-07-31T00:15:51.613Z",
-  "version": 1753920951613,
+  "lastUpdated": "2025-07-31T00:18:26.042Z",
+  "version": 1753921106042,
   "metadata": {
-    "totalProducts": 11,
+    "totalProducts": 12,
     "categories": [
       "doors-new-construction",
-      "french-doors"
+      "french-doors",
+      "casita"
     ],
-    "lastSync": "2025-07-31T00:15:51.613Z",
+    "lastSync": "2025-07-31T00:18:26.042Z",
     "syncedBy": "TLC Windows Inventory System"
   }
 }
